@@ -4,5 +4,5 @@ variable "role_assignments" {
     scope        = string
     role         = string
   }))
-  desccription = "Map of roles assignment, and scope"
+  description = "Map of roles assignment, and scope"
 }
